@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 About Me
-- 💡 Strong foundation in applied mathematics, statistics, and actuarial analysis  
-- 🧮 Passed multiple actuarial exams and completed internship experience in life insurance consulting.
-- 🐍 Expanding expertise in Python, Pandas, NumPy, scikit-learn, and data-driven projects
-- 🎯 Goal: Build a data-science portfolio applying predictive modeling, ML, and real-world datasets  
+## About Me
+- Strong foundation in applied mathematics, statistics, and actuarial analysis  
+- Passed multiple actuarial exams and completed internship experience in life insurance consulting.
+- Expanding expertise in Python, Pandas, NumPy, scikit-learn, and data-driven projects
+- Goal: Build a data-science portfolio applying predictive modeling, ML, and real-world datasets  
 
 ---
 
@@ -18,9 +18,6 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Tic Tac Toe](https://github.com/Nolan6Jensen/Tic_Tac_Toe) | A Python-based command-line Tic Tac Toe game featuring clean logic, input validation, and modular functions. | Python |
-
-*(More projects coming soon!)*
 
 ---
 
