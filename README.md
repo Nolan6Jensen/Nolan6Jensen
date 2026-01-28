@@ -7,14 +7,14 @@
 ---
 
 ## About Me
-- Strong foundation in applied mathematics, statistics, and actuarial analysis  
-- Passed multiple actuarial exams and completed internship experience in life insurance consulting.
+- Strong foundation in applied mathematics, statistics, and actuarial science 
+- Passed multiple actuarial exams and completed an internship in life insurance consulting.
 - Expanding expertise in Python, Pandas, NumPy, scikit-learn, and data-driven projects
-- Goal: Build a data-science portfolio applying predictive modeling, ML, and real-world datasets  
+- Goal: Build a data-science portfolio applying predictive modeling, ML, and real-world datasets
 
 ---
 
-## 📂 Personal Projects
+## 📂 Public Projects
 
 | Project | Description | Tech |
 |----------|--------------|------|
