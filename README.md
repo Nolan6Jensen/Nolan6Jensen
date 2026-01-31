@@ -1,37 +1,39 @@
 # 👋 Hi, I'm Nolan Jensen
 
 🎓 Senior at **Texas A&M University** majoring in **Applied Mathematics (Actuarial Science)**  
-💻 Building technical and analytical skills in **Data Science & Machine Learning**
-📊 Experienced in statistical modeling, Python programming, and quantitative problem solving  
+💻 Building analytical and technical skills in **Data Science & Statistical Modeling**  
+📊 Experienced with regression analysis and diagnostics in Python
 
 ---
 
 ## About Me
-- Strong foundation in applied mathematics, statistics, and actuarial science 
-- Passed multiple actuarial exams and completed an internship in life insurance consulting.
-- Expanding expertise in Python, Pandas, NumPy, scikit-learn, and data-driven projects
-- Goal: Build a data-science portfolio applying predictive modeling, ML, and real-world datasets
+- Strong foundation in applied mathematics, probability, and statistics  
+- Passed multiple actuarial exams and completed an internship in life insurance consulting  
+- Hands-on experience with Python, Pandas, NumPy, Statsmodels, and scikit-learn  
+- Interested in applying statistical modeling and data science to real-world datasets  
+- Long-term goal: build a rigorous, interpretable data science portfolio
 
 ---
 
 ## 📂 Public Projects
 
-| Project | Description | Tech |
-|----------|--------------|------|
+| Project | Description | Tools | Link |
+|--------|-------------|-------|------|
+| **Life Expectancy Modeling** | Analyzed global WHO data to identify key drivers of life expectancy using multiple linear regression, diagnostics, and model selection. Explored how education, infrastructure, and development indicators relate to longevity. | Python, Pandas, Statsmodels, Matplotlib | [Repo](https://github.com/Nolan6Jensen/life-expectancy-modeling) |
 
 ---
 
 ## 🧠 Currently Learning
-- Python for Data Analysis (Pandas, NumPy)
-- Data Visualization (Matplotlib, Seaborn)
-- Machine Learning fundamentals (scikit-learn)
-- SQL and exploratory data analysis workflows
+- Advanced Python for data analysis  
+- Regression diagnostics and model interpretation  
+- Machine learning fundamentals (scikit-learn)  
+- SQL and structured exploratory data analysis workflows  
 
 ---
 
 ## 📫 Connect With Me
-[💼 LinkedIn](www.linkedin.com/in/nolan-jensen6) • [📧 Email](nolan6jensen@gmail.com)
+[💼 LinkedIn](https://www.linkedin.com/in/nolan-jensen6) • [📧 Email](mailto:nolan6jensen@gmail.com)
 
 ---
 
-> ⚙️ *This profile README will grow as I add new data-science and machine-learning projects throughout 2025.*
+> ⚙️ *This profile will continue to grow as I add data science and statistical modeling projects.*
