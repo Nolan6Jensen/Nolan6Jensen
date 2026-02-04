@@ -8,7 +8,7 @@
 
 ## About Me
 - Strong foundation in applied mathematics, probability, and statistics  
-- Passed multiple actuarial exams and completed an internship in life insurance consulting  
+- Passed 2 actuarial exams and completed an internship in life insurance consulting  
 - Hands-on experience with Python, Pandas, NumPy, Statsmodels, and scikit-learn  
 - Interested in applying statistical modeling and data science to real-world datasets  
 - Long-term goal: build a rigorous, interpretable data science portfolio
